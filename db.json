@@ -1,0 +1,16 @@
+{
+    "foods":[
+        {
+            "cartId": 1,
+            "foodName": ["Crispy Hot Wings","Crispy Chicken Popcorn"],
+            "rate": [180,221],
+            "qty": [1,2]
+        },
+        {
+            "cartId": 2,
+            "foodName": ["Crispy Hot Wings","Crispy Chicken Popcorn"],
+            "rate": [180, 221],
+            "qty": [1,2]
+        }
+    ]
+}
